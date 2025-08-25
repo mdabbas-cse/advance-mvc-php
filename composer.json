@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "MVC\\": "./",
+      "MVC\\Framework\\": "./framework/",
+      "MVC\\App\\": "./app/",
+      "MVC\\Config\\": "./config/",
+      "MVC\\Database\\": "./database/",
+      "MVC\\Resources\\": "./resources/"
+    }
+  }
+}
